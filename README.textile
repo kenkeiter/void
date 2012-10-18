@@ -2,7 +2,7 @@ h1. Void
 
 A Sublime Text 2 theme for those whom love clean, dark UIs.
 
-!screenshot.png(Screenshot of Void)!
+!https://raw.github.com/kenkeiter/void/master/screenshot.png(Screenshot of Void)!
 
 h2. Installation
 
