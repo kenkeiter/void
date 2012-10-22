@@ -6,19 +6,17 @@ A Sublime Text 2 theme for those whom love clean, dark UIs.
 
 h2. Installation
 
-Installation is simple. Simply clone this repository,
+Installation is simple. Simply clone this repository into Sublime Text 2's @Packages@ directory,
 
 <pre>
   <code>
-git clone https://github.com/kenkeiter/void.git
+git clone https://github.com/kenkeiter/void.git "Theme - Void"
   </code>
 </pre>
 
-and move the contents of the included directories in your cloned repository to the directories with corresponding names within Sublime Text 2's @Packages@ directory.
-
 For the uninitiated, you can open this directory by going to @Sublime Text 2 > Preferences > Browse Packages...@
 
-After you've moved files to their appropriate directories, you'll need to activate the themes by modifying your configuration.
+After you've cloned the repo, you'll need to activate the theme by modifying your configuration.
 
 Under @Sublime Text 2 > Preferences > Settings - User@ add the following value in the appropriate way (you know JSON, right?) to activate the new theme:
 
@@ -32,7 +30,7 @@ Save the file. The layout changes should activate. If you run into weird issues,
 
 h3. For Best Effect
 
-For the best visual effect (matching the above screenshot), activate the Void color scheme by selecting @Sublime Text 2 > Preferences > Color Scheme > Void@. The changes should occur immediately. 
+For the best visual effect (matching the above screenshot), activate the Void color scheme by selecting @Sublime Text 2 > Preferences > Color Scheme > Theme - Void > Color Scheme - Void > Void@. The changes should occur immediately.
 
 h2. License
 
